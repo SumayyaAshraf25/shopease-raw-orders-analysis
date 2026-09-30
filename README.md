@@ -1,6 +1,7 @@
+# ShopEase Orders - Exploratory Data Analysis
 ## Overview
 End-to-end Python exploratory data analysis of a raw e-commerce orders dataset, including data cleaning, preprocessing, visualization, statistical analysis, and business insights.
-# ShopEase Orders - Exploratory Data Analysis
+
 ## Aim
 To clean the raw data, analyze sales, customer and order-fulfilment
 patterns, and give business recommendations supported by the data.
