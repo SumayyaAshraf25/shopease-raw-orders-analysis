@@ -36,20 +36,6 @@ Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook
 - Test the discount policy on a trial basis before changing it widely.
 - Capture the payment method at order time and validate data at entry.
 
-## Project Structure
-```
-shopease-eda-project/
-├── README.md
-├── requirements.txt
-├── ShopEase_EDA.ipynb
-└── data/
-    └── shopease_clean_orders.csv
-```
-
-## How to Run
-1. Install the libraries: `pip install -r requirements.txt`
-2. Download the raw dataset from the Kaggle link above and place it in the `data` folder.
-3. Open `ShopEase_EDA.ipynb` in Jupyter Notebook and run all cells.
-
+0
 ## Limitations
 The data is synthetic, covers six months, and has no cost, profit or payment information. Customer IDs are inconsistent, so customer-level conclusions were not drawn. See the notebook for the full list.
